@@ -1,2 +1,5 @@
-# estructures_dataframe
-Tasca 5 (sprint 3)
+Curs: ITAcademy Data Science
+
+Tasca: Exploració de dades - Tasca 5 (Sprint3)
+
+Alumne: Roger Gallart
